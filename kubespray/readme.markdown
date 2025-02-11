@@ -4,7 +4,7 @@ Usando: kubespray, proxmox e terraform.
 
 O principal motivo de estarmos usando o [kubespray](https://github.com/kubernetes-sigs/kubespray) é justamente o que a propria documentação dele diz “Deploy a Production Ready Kubernetes Cluster” 
 
-Ele utiliza `a**nsible**` para automação e oferece suporte a múltiplos provedores de nuvem e sistemas operacionais. 
+Ele utiliza `ansible` para automação e oferece suporte a múltiplos provedores de nuvem e sistemas operacionais. 
 
 Baixar o [repositório do kubespray](https://github.com/kubernetes-sigs/kubespray) 
 
