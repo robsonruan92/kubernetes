@@ -3,6 +3,8 @@ EN-US
 
 Welcome to the **Kubernetes Study Repository**! This repository is dedicated to learning, experimenting, and understanding Kubernetes, the powerful container orchestration platform. Whether you're a beginner or an experienced developer, this repository aims to provide resources, examples, and hands-on exercises to help you master Kubernetes.
 
+--
+
 PT-BR
 # Repositório de estudos Kubernetes
 
